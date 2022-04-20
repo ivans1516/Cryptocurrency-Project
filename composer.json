@@ -22,24 +22,17 @@
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
-<<<<<<< HEAD
-=======
         "php-parallel-lint/php-parallel-lint": "^1.3",
         "phpro/grumphp": "^1.10",
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
         "phpunit/phpunit": "^9.3.3"
     },
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
-<<<<<<< HEAD
-        "sort-packages": true
-=======
         "sort-packages": true,
         "allow-plugins": {
             "phpro/grumphp": true
         }
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
     },
     "extra": {
         "laravel": {
