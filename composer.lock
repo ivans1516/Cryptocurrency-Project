@@ -4,11 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
-    "content-hash": "b557447aed225564c117591bb2f59a0b",
-=======
     "content-hash": "818fe4b87985053912d0ce0d3bba08a8",
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5779,8 +5775,6 @@
     ],
     "packages-dev": [
         {
-<<<<<<< HEAD
-=======
             "name": "amphp/amp",
             "version": "v2.6.2",
             "source": {
@@ -6325,7 +6319,6 @@
             "time": "2021-10-25T18:29:10+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "barryvdh/laravel-debugbar",
             "version": "v3.6.7",
             "source": {
@@ -6411,8 +6404,6 @@
             "time": "2022-02-09T07:52:32+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "doctrine/collections",
             "version": "1.6.8",
             "source": {
@@ -6482,7 +6473,6 @@
             "time": "2021-08-10T18:51:53+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "doctrine/instantiator",
             "version": "1.4.1",
             "source": {
@@ -6887,8 +6877,6 @@
             "time": "2022-01-07T12:00:00+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "gitonomy/gitlib",
             "version": "v1.3.4",
             "source": {
@@ -6963,7 +6951,6 @@
             "time": "2022-02-14T09:07:07+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "hamcrest/hamcrest-php",
             "version": "v2.0.1",
             "source": {
@@ -7299,8 +7286,6 @@
             "time": "2022-01-10T16:22:52+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "ondram/ci-detector",
             "version": "4.1.0",
             "source": {
@@ -7379,7 +7364,6 @@
             "time": "2021-04-14T09:16:52+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "phar-io/manifest",
             "version": "2.0.3",
             "source": {
@@ -7491,8 +7475,6 @@
             "time": "2022-02-21T01:04:05+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "php-parallel-lint/php-parallel-lint",
             "version": "v1.3.2",
             "source": {
@@ -7550,7 +7532,6 @@
             "time": "2022-02-21T12:50:22+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "phpdocumentor/reflection-common",
             "version": "2.2.0",
             "source": {
@@ -7711,8 +7692,6 @@
             "time": "2022-03-15T21:29:03+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "phpro/grumphp",
             "version": "v1.11.0",
             "source": {
@@ -7829,7 +7808,6 @@
             "time": "2022-04-15T11:39:48+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "phpspec/prophecy",
             "version": "v1.15.0",
             "source": {
@@ -9282,8 +9260,6 @@
             "time": "2020-09-28T06:39:44+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "seld/jsonlint",
             "version": "1.9.0",
             "source": {
@@ -9426,7 +9402,6 @@
             "time": "2022-03-22T16:12:04+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "symfony/debug",
             "version": "v4.4.37",
             "source": {
@@ -9495,8 +9470,6 @@
             "time": "2022-01-02T09:41:36+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "symfony/dependency-injection",
             "version": "v6.0.7",
             "source": {
@@ -9859,7 +9832,6 @@
             "time": "2022-01-26T17:23:29+00:00"
         },
         {
->>>>>>> 7e448842cc251ae1204b45c7f6cdcbccad2790ec
             "name": "theseer/tokenizer",
             "version": "1.2.1",
             "source": {
